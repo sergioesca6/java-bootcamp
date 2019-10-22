@@ -2,7 +2,7 @@
 
 Repository with all programs made for a java bootcamp.
 
-the free java bootcamp can be found at `https://programmingbydoing.com/` 
+the free java bootcamp can be found at https://programmingbydoing.com/ 
 
 ## course content
 below is the course content and most of the code for the problems can be found in the `java` folder 
